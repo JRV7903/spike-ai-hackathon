@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+openai
+google-analytics-data
+google-auth
+gspread
+pandas
+numpy
+python-dateutil
+tenacity
+pydantic
+python-dotenv
